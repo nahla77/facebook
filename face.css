@@ -1,0 +1,129 @@
+.sec1{
+    display: flex;
+    justify-content: space-between;
+}
+.div1{
+    width: 550px;
+    align-items: center;
+    position: relative;
+
+}
+.img1{
+    width: 300px;
+    height: 120px;
+    position:absolute ;
+    top: 90px;
+    left: 130px;
+}
+.div1 h2{
+    position: absolute;
+    top: 180px;
+    font-size: 24px;
+    width: auto;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    text-rendering: optimizelegibility;
+    position: absolute;
+    left: 150px;
+}
+.div2{
+    align-items: center;
+    background-color: #fff;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    box-sizing: border-box;
+    margin: 40px 100px 0px;
+    padding: 20px 0 50px;
+    width: 396px;
+}
+.form1{
+    position: relative;
+    width: 500px;
+    height: 330px;
+
+}
+.email{
+    border-radius: 6px;
+    font-size: 17px;
+    position: absolute;
+    padding: 14px 26px;
+    left: 20px;
+    width: 300px;
+    border: 1px solid #c2c8d0;
+    height: 22px;
+    line-height: 16px;
+    background-color: rgb(221, 221, 249);
+    vertical-align: middle;
+
+}
+.password{
+    border-radius: 6px;
+    font-size: 17px;
+    padding: 14px 26px;
+    position: absolute;
+    left: 20px;
+    top: 90px;
+    width: 300px;
+    border: 1px solid #c2c8d0;
+    height: 22px;
+    line-height: 16px;
+    background-color: rgb(221, 221, 249);
+    vertical-align: middle;
+
+}
+.butt1{
+    background-color: #1877f2;
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    line-height: 48px;
+    padding: 0px 16px;
+    width: 332px;
+    position: absolute;
+    top:150px ;
+    left: 20px;
+    height: 50px;
+    text-align: center;
+    text-shadow: none;
+    vertical-align: middle;
+    color: #fff;
+}
+.forget{
+    text-decoration: none;
+    color: #1877f2;
+    font-size: 14px;
+    font-weight: 500;
+    font-family: inherit;
+    position: absolute;
+    left: 120px;
+    top: 230px;
+}
+.hr{
+    align-items: center;
+    border-bottom: 1px solid #dadde1;
+    display: flex;
+    margin: 20px 16px;
+    text-align: center;
+    width: 340px;
+    position: absolute;
+    top: 250px;
+   
+    font-size: 12px;
+}
+.button{
+    position: absolute;
+    left: 100px;
+    top: 280px;
+}
+.butt2{
+    background-color:#42b72a ;
+    border: none;
+    border-radius: 6px;
+    font-size: 17px;
+    line-height: 48px;
+    color:white ;
+    font-weight: bold;
+    font-family: inherit;
+    width: 200px;
+}
